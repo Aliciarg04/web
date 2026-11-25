@@ -110,3 +110,5 @@ h1 .heart svg{width:1em;height:1em}
 .postal span svg{width:.8em;height:.8em;color:var(--pink-deep);vertical-align:-.05em}
 footer svg{color:var(--pink-mid);vertical-align:-.15em}
 .note a svg{vertical-align:-.12em;margin-left:.2em}
+@page{size:A4;margin:12mm 13mm}
+.entry-title a{color:inherit;font-weight:inherit;border-bottom:1.5px dotted var(--pink-deep)} .entry-title a:hover{background:var(--pink);color:inherit}
